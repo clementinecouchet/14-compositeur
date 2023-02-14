@@ -2,6 +2,7 @@ body {
   max-width: 320px;
   margin: auto;
   background: #759b84;
+  text-align: center;
 }
 
 img {
@@ -25,9 +26,26 @@ h2 {
 
   header {
     background: #8a9885;
+    text-align: center ;
+    padding: 30px;
   }
 
   footer {
     background: #35423d;
+    padding: 30px;
   }
+  
+ .test {
+  background-color: aqua;
+ }
 
+ .nav-header .container {
+  display: flex;
+  justify-content: space-between;
+  font-size: x-small;
+ }
+
+ .element-nav {
+  background-color: pink;
+  border-radius: 20%;
+ }
