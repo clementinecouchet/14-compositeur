@@ -1,7 +1,7 @@
 body {
   max-width: 320px;
   margin: auto;
-  background: #ddd;
+  background: #759b84;
 }
 
 img {
@@ -22,3 +22,12 @@ h2 {
     font-weight: 400;
     font-style: normal;
   }
+
+  header {
+    background: #8a9885;
+  }
+
+  footer {
+    background: #35423d;
+  }
+
