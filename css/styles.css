@@ -74,3 +74,11 @@ footer div {
   text-align: center;
   color: #f2c0af;
  }
+
+ .video-link {
+  border: 3px solid #e2c09a;
+  padding: 4px;
+  margin: 2px;
+  color: #d1a28b;
+  font-size: 13px;
+ }
