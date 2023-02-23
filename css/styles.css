@@ -73,6 +73,19 @@ footer div {
   border-radius: 15px;
   padding: 4px;
   margin: 2px;
+  text-align: center;
+  font-size: 13px;
+  color: #bfe3eb;
+ }
+
+ footer img {
+  width: 110px;
+  height: 66px;
+  margin: auto;
+ }
+
+ footer p:last-of-type {
+ color: #35423d;
  }
 
  .legendes-img {
