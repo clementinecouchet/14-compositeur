@@ -2,7 +2,6 @@ body {
   max-width: 320px;
   margin: auto;
   background: #759b84;
-  text-align: center;
 }
 
 img {
@@ -17,6 +16,13 @@ h2 {
   font-style: normal;
   }
   
+ .img-centree {
+  width: 235px;
+  height: 340px;
+  margin: auto;
+  padding-top: 20px;
+ }
+
   p,
   a {
     font-family: "roboto", sans-serif;
@@ -28,6 +34,7 @@ h2 {
     background: #8a9885;
     text-align: center ;
     padding: 10px;
+    padding-bottom: 25px;
   }
 
   footer {
@@ -60,4 +67,10 @@ footer div {
   border-radius: 15px;
   padding: 4px;
   margin: 2px;
+ }
+
+ .legendes-img {
+  font-size: 12px;
+  text-align: center;
+  color: #f2c0af;
  }
