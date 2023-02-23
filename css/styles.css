@@ -27,16 +27,19 @@ h2 {
   header {
     background: #8a9885;
     text-align: center ;
-    padding: 30px;
+    padding: 10px;
   }
 
   footer {
     background: #35423d;
-    padding: 30px;
+    padding: 10px;
   }
   
  .test {
-  background-color: aqua;
+  background-color: #35423d;
+  border-radius: 15px;
+  padding: 10px;
+  margin: 2px;
  }
 
  .nav-header .container {
@@ -47,6 +50,13 @@ h2 {
 
  .element-nav {
   background-color: #d1a28b;
+  border-radius: 15px;
+  padding: 4px;
+  margin: 2px;
+ }
+
+footer div {
+  background: #8a9885;
   border-radius: 15px;
   padding: 4px;
   margin: 2px;
