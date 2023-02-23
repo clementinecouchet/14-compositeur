@@ -46,6 +46,8 @@ h2 {
  }
 
  .element-nav {
-  background-color: pink;
-  border-radius: 20%;
+  background-color: #d1a28b;
+  border-radius: 15px;
+  padding: 4px;
+  margin: 2px;
  }
