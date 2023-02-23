@@ -14,7 +14,13 @@ h2 {
   font-family: "quatro", sans-serif;
   font-weight: 700;
   font-style: normal;
+  color: #35423d;
   }
+
+h2 {
+  color: #bfe3eb;
+  margin: 0;
+}
   
  .img-centree {
   width: 235px;
@@ -82,3 +88,7 @@ footer div {
   color: #d1a28b;
   font-size: 13px;
  }
+
+hr {
+  border: 1px solid black;
+}
