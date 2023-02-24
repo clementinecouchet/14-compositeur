@@ -109,3 +109,19 @@ hr {
   border: 1px solid black;
 }
 
+a {
+  text-decoration: none;
+  color: #f2c0af;
+}
+
+a:active {
+  color: #bfe3eb;
+}
+
+.element-nav a {
+  color: #330800;
+}
+
+.video-link a {
+  color: #d1a28b;
+}
