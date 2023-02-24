@@ -77,7 +77,6 @@ footer div {
   margin: 2px;
   text-align: center;
   font-size: 13px;
-  color: #bfe3eb;
  }
 
  footer img {
@@ -124,4 +123,8 @@ a:active {
 
 .video-link a {
   color: #d1a28b;
+}
+
+footer a {
+  color: #bfe3eb;
 }
