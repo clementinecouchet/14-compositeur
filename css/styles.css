@@ -118,30 +118,21 @@ a {
   color: #f2c0af;
 }
 
-a:active {
+a:active,
+footer a {
   color: #bfe3eb;
-}
-
-.element-nav a {
-  color: #330800;
 }
 
 .video-link a {
   color: #d1a28b;
 }
 
-footer a {
-  color: #bfe3eb;
-}
-
-p {
-  color: #330800;
-}
-
 .mise-evidence {
   color: #f2c0af;
 }
 
-.mise-evidence-legende {
+.mise-evidence-legende,
+p,
+.element-nav a {
   color: #330800;
 }
