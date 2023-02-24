@@ -94,6 +94,7 @@ footer div {
   font-size: 12px;
   text-align: center;
   color: #f2c0af;
+  padding-top: 2px;
  }
 
  .video-link {
@@ -107,3 +108,4 @@ footer div {
 hr {
   border: 1px solid black;
 }
+
