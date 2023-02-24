@@ -17,13 +17,18 @@ h2 {
   font-weight: 700;
   font-style: normal;
   color: #35423d;
+  margin: 0;
   }
 
 h2 {
   color: #bfe3eb;
-  margin: 0;
+  padding-bottom: 5px;
 }
-  
+
+h1:last-of-type {
+padding-bottom: 5px;
+}
+
  .img-centree {
   width: 235px;
   height: 340px;
