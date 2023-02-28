@@ -45,56 +45,60 @@
   header {
     background: #8a9885;
     text-align: center ;
-    padding: 10px;
     padding-bottom: 25px;
   }
 
-  footer {
-    background: #35423d;
+  main,
+  footer,
+  header {
     padding: 10px;
   }
+
+  footer,
+  .blockheader {
+    background: #35423d;
+  }
   
- .blockheader {
-  background-color: #35423d;
-  border-radius: 15px;
-  padding: 20px;
-  margin: 2px;
- }
+  .blockheader {
+    border-radius: 15px;
+    padding: 20px;
+    margin: 2px;
+  }
 
- .nav-header .container {
-  display: flex;
-  justify-content: space-between;
-  font-size: x-small;
- }
+  .nav-header .container {
+    display: flex;
+    justify-content: space-between;
+    font-size: x-small;
+  }
 
- .element-nav {
-  background-color: #d1a28b;
-  border-radius: 15px;
-  padding: 4px;
-  margin: 2px;
- }
+  .element-nav {
+    background-color: #d1a28b;
+    border-radius: 15px;
+    padding: 4px;
+    margin: 2px;
+  }
 
-footer div {
-  background: #8a9885;
-  border-radius: 15px;
-  padding: 4px;
-  margin: 2px;
-  text-align: center;
-  font-size: 13px;
- }
+  footer div {
+    background: #8a9885;
+    border-radius: 15px;
+    padding: 4px;
+    margin: 2px;
+    text-align: center;
+    font-size: 13px;
+  }
 
- footer img {
-  width: 110px;
-  height: 66px;
-  margin: auto;
- }
+  footer img {
+    width: 110px;
+    height: 66px;
+    margin: auto;
+  }
 
- .legendes-img {
-  font-size: 12px;
-  text-align: center;
-  color: #f2c0af;
-  padding-top: 2px;
- }
+  .legendes-img {
+    font-size: 12px;
+    text-align: center;
+    color: #f2c0af;
+    padding-top: 2px;
+  }
 
  .video-link {
   border: 3px solid #e2c09a;
