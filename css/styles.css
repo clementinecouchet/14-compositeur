@@ -2,7 +2,6 @@ body {
   max-width: 320px;
   margin: auto;
   background: #759b84;
-  border: 2px solid black;
   padding: 5px;
 }
 
@@ -107,7 +106,6 @@ footer div {
   border: 3px solid #e2c09a;
   padding: 4px;
   margin: 2px;
-  color: #d1a28b;
   font-size: 13px;
  }
 
@@ -117,7 +115,6 @@ hr {
 
 a {
   text-decoration: none;
-  color: #f2c0af;
 }
 
 a:active,
@@ -129,13 +126,15 @@ footer a {
   color: #d1a28b;
 }
 
-.mise-evidence {
+.mise-evidence,
+a {
   color: #f2c0af;
 }
 
 .mise-evidence-legende,
 p,
-.element-nav a {
+.element-nav a,
+.mise-evidence-legende a {
   color: #330800;
 }
 
