@@ -14,8 +14,8 @@
     max-width: 100%;
   }
 
-  h1, 
-  h2 {
+  h2, 
+  h3 {
     font-family: "quatro", sans-serif;
     font-weight: 700;
     font-style: normal;
@@ -30,12 +30,12 @@
     font-style: normal;  
   }
 
-  h1:last-of-type,
-  h2 {
+  h2:last-of-type,
+  h3 {
     padding-bottom: 5px;
   }
 
-  .img-centree {
+  .img-centred {
     width: 235px;
     height: 340px;
     margin: auto;
@@ -96,10 +96,11 @@
     margin: auto;
   }
 
-  .legendes-img {
+  .legends-img {
     font-size: 12px;
     text-align: center;
     padding-top: 2px;
+    font-style: italic
   }
 
  .video-link {
@@ -117,7 +118,7 @@
 
   a:active,
   footer a,
-  h2 {
+  h {
     color: #bfe3eb;
   }
 
@@ -125,20 +126,20 @@
     color: #d1a28b;
   }
 
-  .mise-evidence,
+  .highlighting,
   a,
-  .legendes-img {
+  .legends-img {
     color: #f2c0af;
   }
 
-  .mise-evidence-legende,
+  .highlighting-legend,
   p,
   .element-nav a,
-  .mise-evidence-legende a {
+  .highlighting-legend a {
     color: #330800;
   }
 
-  .mise-evidence-legende a {
+  .highlighting-legend a {
     font-style: italic;
   }
 
